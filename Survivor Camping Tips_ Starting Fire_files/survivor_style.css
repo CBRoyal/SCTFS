@@ -75,6 +75,9 @@
 #survivor_camp_image{
     float: right;
 }
+#survivor_44_campfire_image{
+    margin-left: 60px;
+}
 #title_description, #link_showcase{
     font-family: "Knewave", sans-serif;
     font-size: 30px; 
