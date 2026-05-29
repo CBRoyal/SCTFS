@@ -77,3 +77,8 @@
         margin-left: 5px;
     }
 }
+@media (max-width: 500px){
+    #fire_starting_title{
+        margin-left: 55px;
+    }
+}
