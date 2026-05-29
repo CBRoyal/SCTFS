@@ -81,4 +81,18 @@
     #fire_starting_title{
         margin-left: 55px;
     }
+    #survivor_44_campfire_image{
+        margin-left: 0px;
+        margin-right: 50px;
+        width: 400px;
+        height: 400px;
+    }
+    #fire_starting_description, #fire_starting_steps, #fire_heads_up{
+        margin-left: 70px;
+        margin-right: 0px;
+    }
+    .survivor_footer{
+        width: 100%;
+        margin-left: 25px;
+    }
 }
