@@ -62,6 +62,7 @@
 @media (max-width: 800px){
     #fire_starting_title{
         font-size: 45px;
+        margin-left: 10px;
     }
     #survivor_44_campfire_image{
         margin-left: 60px;
