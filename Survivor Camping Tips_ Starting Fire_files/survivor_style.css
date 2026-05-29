@@ -69,4 +69,11 @@
         width: 600px;
         height: 600px;
     }
+    #fire_starting_description, #fire_starting_steps, #fire_heads_up{
+        margin-right: 25px;
+    }
+    .survivor_footer{
+        width: 95%;
+        margin-left: 5px;
+    }
 }
