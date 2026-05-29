@@ -14,6 +14,7 @@
     font-size: 60px;
     color: var(--fire-header-color);
     text-shadow: 2px 2px var(--text-shadow-color);
+    margin-left: 5px;
 }
 #survivor_44_campfire_image{
     margin-left: 100px;
