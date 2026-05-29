@@ -59,3 +59,8 @@
 .copyright_link:hover, .storage_link:hover{
     color: var(--fire-header-color);
 }
+@media (max-width: 800px){
+    #fire_starting_title{
+        font-size: 45px;
+    }
+}
