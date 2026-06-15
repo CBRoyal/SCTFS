@@ -60,7 +60,7 @@
 .copyright_link:hover, .storage_link:hover{
     color: var(--fire-header-color);
 }
-@media screen and (max-width: 800px){
+@media (max-width: 800px){
     #fire_starting_title{
         font-size: 45px;
         margin-left: 20px;
@@ -78,7 +78,7 @@
         margin-left: 10px;
     }
 }
-@media screen and (max-width: 500px){
+@media (max-width: 500px){
     #fire_starting_title{
         margin-left: 75px;
     }
